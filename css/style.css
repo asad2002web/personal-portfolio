@@ -52,16 +52,38 @@ ul,li{
 }
 /* bunner section end */
 /* about section strat  */
+#about-part{
+    padding: 80px 0;
+}
 .about a{
     background-color: #7f97ff;
     color: #fff;
     padding: 10px 20px;
 }
-
-
-
-
-
-
-
 /* about section end */
+/* Servicec section strat */
+#services{
+    padding: 80px 0;
+}
+.service-card i{
+    font-size: 38px;
+    padding: 10px 0;
+}
+.service-card{
+    padding: 20px 40px;
+}
+.service-card:hover{
+    background-color: #8293ff;
+}
+/* Servicec section end */
+/* counter section start */
+#counter-part{
+    background-color: #8293ff;
+    padding: 100px 0;
+}
+/* counter section end */
+/* Features section start */
+
+
+
+/* Features section end */
